@@ -13,22 +13,6 @@ public class Ball : MonoBehaviour
         rb.velocity = Vector2.up * speed;
     }
 
-    void FixedUpdate()
-    {
-        if (transform.position.x <= -7 || transform.position.x >= 7)
-        {
-            Vector2 currentVelocity = rb.velocity;
-            currentVelocity.x = -currentVelocity.x;
-            rb.velocity = currentVelocity;
-        }
-        if (/*transform.position.y <= -7 ||*/transform.position.y >= 7.5)
-        {
-            Vector2 currentVelocity = rb.velocity;
-            currentVelocity.y = -currentVelocity.y;
-            rb.velocity = currentVelocity;
-        }
-    }
-
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))

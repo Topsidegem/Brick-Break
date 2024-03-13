@@ -6,7 +6,7 @@ using UnityEngine.InputSystem;
 public class PlayerBar : MonoBehaviour
 {
     private Player controls; 
-    public float speed = 5f; 
+    public float speed; 
     private float moveInput;
 
 
@@ -15,7 +15,6 @@ public class PlayerBar : MonoBehaviour
         controls = new Player();
         controls.Enable();
 
-        //preguntar como funciana este codigo de chatgpt
         controls.Movement.Derecha.performed += ctx =>
         {
             moveInput = ctx.ReadValue<float>();
