@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Ball : MonoBehaviour
 {
-    public float speed = 5f;
+    [SerializeField] private float speed ;
     private Rigidbody2D rb;
 
     void Start()
@@ -23,5 +23,6 @@ public class Ball : MonoBehaviour
             float difference = hitPoint.x - paddleCenterX;
             rb.velocity = new Vector2(difference * 2f, rb.velocity.y).normalized * speed;
         }
+
     }
 }

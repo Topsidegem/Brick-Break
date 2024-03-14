@@ -7,9 +7,10 @@ using UnityEditor;
 public class Menu : MonoBehaviour
 {
     public GameObject menu;
-    public GameObject menuPerdedor;
+    public static GameObject menuPerdedor;
 
-    //private Randomizar randomizarScript;
+    private static Ball ballScripts;
+    private  Ball ballScript;
 
     private bool isPaused = true;
 
@@ -20,7 +21,8 @@ public class Menu : MonoBehaviour
     
     void Start()
     {
-        //randomizarScript = GameObject.FindObjectOfType<Randomizar>();
+        ballScripts = GameObject.FindObjectOfType<Ball>();
+        ballScript = GameObject.FindObjectOfType<Ball>();
         //if (randomizarScript == null)
         //{
         //    Debug.LogError("No se pudo encontrar el script Randomizar en la escena.");
@@ -45,17 +47,16 @@ public class Menu : MonoBehaviour
         }
     }
     
-    public void ReiniciarJuego()
+    public static void ReiniciarJuego()
     {
-        //if (randomizarScript != null)
-        //{
-        //    randomizarScript.ResetGame();
-            
-        //}
-        //else
-        //{
-        //    Debug.Log("No se puede reiniciar el juego porque el script Randomizar no está asignado.");
-        //}
+        if (ballScripts != null)
+        {
+            //ballScripts.ResetGame();
+        }
+        else
+        {
+            Debug.Log("No se puede reiniciar el juego porque el script Randomizar no está asignado.");
+        }
 
         menuPerdedor.SetActive(false);
         Time.timeScale = 1;

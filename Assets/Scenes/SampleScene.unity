@@ -143,6 +143,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1913896318}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -152,7 +156,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -225,6 +229,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1169159799}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -234,7 +242,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -356,7 +364,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -445,6 +453,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 335082079}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -454,7 +466,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -503,6 +515,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1368799154}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -512,7 +528,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -590,6 +606,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1716691664}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -599,7 +619,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -722,6 +742,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 166782890}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -731,7 +755,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -821,6 +845,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 395947097}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -830,7 +858,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -917,6 +945,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1284391570}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -926,7 +958,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -1116,7 +1148,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -1165,6 +1197,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1303271965}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -1174,7 +1210,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -1301,7 +1337,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -1427,7 +1463,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -1540,6 +1576,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 957451373}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -1549,7 +1589,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -1598,6 +1638,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1817612394}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -1607,7 +1651,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -1690,6 +1734,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 862662279}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -1699,7 +1747,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -1813,6 +1861,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 389412148}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -1822,7 +1874,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -1924,6 +1976,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1599800959}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -1933,7 +1989,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -2034,6 +2090,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 155003785}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -2043,7 +2103,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -2149,6 +2209,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 919891015}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -2158,7 +2222,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -2231,6 +2295,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 597294640}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -2240,7 +2308,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -2318,6 +2386,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1458547442}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -2327,7 +2399,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -2400,6 +2472,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1043091333}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -2409,7 +2485,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -2518,6 +2594,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1520234752}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -2527,7 +2607,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -2768,7 +2848,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -2900,7 +2980,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -2994,6 +3074,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1393215621}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -3003,7 +3087,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -3179,7 +3263,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -3280,6 +3364,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1837869890}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -3289,7 +3377,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -3343,6 +3431,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1625938979}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -3352,7 +3444,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -3509,6 +3601,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 204141485}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -3518,7 +3614,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -3813,7 +3909,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -3898,6 +3994,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 548459944}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -3907,7 +4007,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -4060,6 +4160,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 951266340}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -4069,7 +4173,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -4132,7 +4236,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -4205,6 +4309,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1223032269}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -4214,7 +4322,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -4603,6 +4711,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1036191945}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -4612,7 +4724,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -4718,6 +4830,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 2144788580}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -4727,7 +4843,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -4781,6 +4897,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1438759609}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -4790,7 +4910,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -4899,6 +5019,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1686619588}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -4908,7 +5032,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -5140,6 +5264,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1484562977}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -5149,7 +5277,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -5255,7 +5383,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -5325,7 +5453,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -5455,6 +5583,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 2036367726}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -5464,7 +5596,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -5534,7 +5666,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -5643,6 +5775,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1404225771}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -5652,7 +5788,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -5874,7 +6010,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -6004,6 +6140,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1991560281}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -6013,7 +6153,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -6086,6 +6226,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1046458545}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -6095,7 +6239,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -6261,6 +6405,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 134520640}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -6270,7 +6418,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -6362,6 +6510,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 2026616092}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -6371,7 +6523,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -6484,6 +6636,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1816750656}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -6493,7 +6649,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -6608,6 +6764,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 569956196}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -6617,7 +6777,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -6763,7 +6923,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -6961,7 +7121,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7121202354839587632}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Menu, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
@@ -7128,6 +7288,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 227189785}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -7137,7 +7301,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -7216,6 +7380,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 246257498}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -7225,7 +7393,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -7343,7 +7511,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -7456,7 +7624,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -7604,7 +7772,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -7723,7 +7891,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -7793,6 +7961,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 340838168}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -7802,7 +7974,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -7922,6 +8094,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1947944334}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -7931,7 +8107,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -8049,7 +8225,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -8155,7 +8331,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -8273,6 +8449,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 626403941}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -8282,7 +8462,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -8404,6 +8584,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1648387859}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -8413,7 +8597,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -8498,6 +8682,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1989281556}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -8507,7 +8695,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -8608,6 +8796,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 298269925}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -8617,7 +8809,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -8753,6 +8945,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 932803898}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -8762,7 +8958,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -8872,6 +9068,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 2026228373}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -8881,7 +9081,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -8921,8 +9121,8 @@ GameObject:
   - component: {fileID: 1276293974}
   - component: {fileID: 1276293973}
   m_Layer: 0
-  m_Name: BoxColiders (3)
-  m_TagString: Untagged
+  m_Name: Perdiste
+  m_TagString: Perdiste
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9033,7 +9233,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -9181,6 +9381,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 855011923}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -9190,7 +9394,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -9326,6 +9530,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 105379221}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -9335,7 +9543,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -9514,7 +9722,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -9596,6 +9804,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1060415888}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -9605,7 +9817,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -10031,6 +10243,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 652698088}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -10040,7 +10256,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -10153,6 +10369,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1571246151}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -10162,7 +10382,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -10297,6 +10517,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 531402536}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -10306,7 +10530,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -10463,7 +10687,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -10591,6 +10815,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1651697765}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -10600,7 +10828,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -10749,6 +10977,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 311414537}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -10758,7 +10990,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -10944,6 +11176,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1044020775}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -10953,7 +11189,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -11068,7 +11304,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -11150,6 +11386,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1552589908}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -11159,7 +11399,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -11293,6 +11533,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 222242468}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -11302,7 +11546,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -11421,7 +11665,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -11475,6 +11719,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 420489578}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -11484,7 +11732,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -11684,7 +11932,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -11816,6 +12064,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1109882233}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -11825,7 +12077,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -11916,7 +12168,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -12055,7 +12307,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -12116,6 +12368,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 342475571}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -12125,7 +12381,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -12283,7 +12539,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7121202354839587632}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Menu, Assembly-CSharp
         m_MethodName: Pause
         m_Mode: 1
@@ -12497,6 +12753,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1642286394}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -12506,7 +12766,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -12616,6 +12876,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 2134221458}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -12625,7 +12889,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -12719,7 +12983,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -12837,6 +13101,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 2137040600}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -12846,7 +13114,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -12947,6 +13215,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1698245856}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -12956,7 +13228,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -13062,6 +13334,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1177684182}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -13071,7 +13347,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -13162,7 +13438,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -13322,6 +13598,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1596191279}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -13331,7 +13611,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -13476,7 +13756,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -13655,6 +13935,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 882565170}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -13664,7 +13948,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -13803,7 +14087,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -13973,6 +14257,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 494073774}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -13982,7 +14270,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -14126,6 +14414,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 2138553014}
+    - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -14135,7 +14427,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7567195153757056495, guid: 297bf62842b5a714ba409b68715aba65, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -14236,6 +14528,10 @@ PrefabInstance:
       value: Bricks
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 2119185357}
+    - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -14245,7 +14541,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4240379227969210588, guid: 18ec4369987fa4c4f970ca140ad72d24, type: 3}
       propertyPath: colores.Array.data[0].g
@@ -14303,7 +14599,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -14553,6 +14849,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
+      propertyPath: brick
+      value: 
+      objectReference: {fileID: 1409787570}
+    - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: speed
       value: 1
       objectReference: {fileID: 0}
@@ -14562,7 +14862,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -14717,7 +15017,7 @@ PrefabInstance:
       objectReference: {fileID: 103941209523793954}
     - target: {fileID: 8852810448772689358, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: tiempoParaDesactivar
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9051937261239556028, guid: 4c041d83bb6050940919d017472a31ca, type: 3}
       propertyPath: m_RootOrder
@@ -15224,7 +15524,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7121202354839587632}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Menu, Assembly-CSharp
         m_MethodName: Pause
         m_Mode: 1
@@ -15531,7 +15831,6 @@ GameObject:
   - component: {fileID: 7121202354839587628}
   - component: {fileID: 7121202354839587631}
   - component: {fileID: 7121202354839587630}
-  - component: {fileID: 7121202354839587632}
   m_Layer: 5
   m_Name: Menu
   m_TagString: Untagged
@@ -15624,20 +15923,6 @@ MonoBehaviour:
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
   m_PresetInfoIsWorld: 0
---- !u!114 &7121202354839587632
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7121202354839587617}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd0c74d6304f8d442a8e060ff6e87530, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menu: {fileID: 7121202354436359422}
-  menuPerdedor: {fileID: 7121202355211183141}
 --- !u!114 &7121202355046716818
 MonoBehaviour:
   m_ObjectHideFlags: 0

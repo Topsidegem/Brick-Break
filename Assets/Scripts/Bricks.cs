@@ -9,8 +9,9 @@ public class Bricks : MonoBehaviour
     [SerializeField] private int vida;
     [SerializeField] private float speed;
     [SerializeField] private float tiempoParaDesactivar;
-    public Color[] colores; 
-    private SpriteRenderer spriteRenderer;
+    public Color[] colores;
+    public BoxCollider2D box;
+    public SpriteRenderer spriteRenderer;
     private Rigidbody2D rb;
     public GameObject BarraPowerUp;
     public int points;
@@ -18,9 +19,9 @@ public class Bricks : MonoBehaviour
 
     private void Start()
     {
+        box = GetComponent<BoxCollider2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
-        //ActualizarColor();
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -36,7 +37,8 @@ public class Bricks : MonoBehaviour
                 }
                 
                 SumarPuntos();
-                Destroy(gameObject);
+                box.enabled = false;
+                spriteRenderer.enabled = false;
             }
             else
             {
@@ -62,12 +64,11 @@ public class Bricks : MonoBehaviour
 
     public void PowerUpUno()
     {
-        if (Random.Range(1, 10) >= 2)
+        if (Random.Range(1, 20) >= 15)
         {
             isActive = true;
             BarraPowerUp.SetActive(true);
             Invoke("DesactivarPowerUp", tiempoParaDesactivar);
-            //StartCoroutine("DesactivarPowerUpDespuesDeTiempo");
 
         }
     }
@@ -78,13 +79,6 @@ public class Bricks : MonoBehaviour
         BarraPowerUp.SetActive(false);
         isActive = false;
     }
-
-    //private IEnumerator DesactivarPowerUpDespuesDeTiempo()
-    //{
-    //    print("si jalo la corrutina");
-    //    BarraPowerUp.SetActive(false);
-    //    yield return new WaitForSeconds(1f);
-    //}
 
     public void SumarPuntos()
     {
