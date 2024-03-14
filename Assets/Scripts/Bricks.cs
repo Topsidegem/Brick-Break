@@ -1,14 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Bricks : MonoBehaviour
 {
+    static bool isActive = false;
     [SerializeField] private int vida;
-    public float speed = 5f;
+    [SerializeField] private float speed;
+    [SerializeField] private float tiempoParaDesactivar;
     public Color[] colores; 
-    [SerializeField] private SpriteRenderer spriteRenderer;
+    private SpriteRenderer spriteRenderer;
     private Rigidbody2D rb;
+    public GameObject BarraPowerUp;
+    public int points;
+    public TextMeshPro puntos;  
 
     private void Start()
     {
@@ -24,6 +30,12 @@ public class Bricks : MonoBehaviour
             vida--;
             if (vida <= 0)
             {
+                if (!isActive)
+                {
+                    PowerUpUno();
+                }
+                
+                SumarPuntos();
                 Destroy(gameObject);
             }
             else
@@ -46,6 +58,38 @@ public class Bricks : MonoBehaviour
     {
         
         spriteRenderer.color = colores[vida-1];
+    }
+
+    public void PowerUpUno()
+    {
+        if (Random.Range(1, 10) >= 2)
+        {
+            isActive = true;
+            BarraPowerUp.SetActive(true);
+            Invoke("DesactivarPowerUp", tiempoParaDesactivar);
+            //StartCoroutine("DesactivarPowerUpDespuesDeTiempo");
+
+        }
+    }
+
+    private void DesactivarPowerUp()
+    {
+        print("sis");
+        BarraPowerUp.SetActive(false);
+        isActive = false;
+    }
+
+    //private IEnumerator DesactivarPowerUpDespuesDeTiempo()
+    //{
+    //    print("si jalo la corrutina");
+    //    BarraPowerUp.SetActive(false);
+    //    yield return new WaitForSeconds(1f);
+    //}
+
+    public void SumarPuntos()
+    {
+        points ++;
+        //puntos = "Puntuacion: " + points;
     }
 }
 
